@@ -1,6 +1,27 @@
 bu dosyaya web projesi dersi boyunca hafta hafta yapayzekaya yazdığımız promptları 
 ve bize verdiği cevapları ve bu cevaplardan nasıl faydalanacağımız not edeceğiz
 16 ekim görevi
-ai a sorduğum soru:
-verdiği cevap:
-ve bu cevabı nasıl kullandım:
+Ai a sorduğum soru:  Ben bilgisayar programcılığı okuyorum bir problem bulup web sitesi yapmamız lazım baglamı kullanıcı adı çözümü olması lazım problem bulur musun
+5 amac baglam sınırlar ve beklenen cıktı olması gerek html ve java dilinde yazacağım bir problem
+Verdiği cevap: 1-Garanti ve Fatura Takip Sistemi Problem: İnsanlar satın aldıkları ürünlerin garanti bitiş tarihlerini unutuyor.
+Amaç: Ürünlerin garanti sürelerini kolayca takip etmek.
+Bağlam: Kullanıcı adıyla giriş yapar; ürün adı, satın alma tarihi ve garanti süresini ekler.
+Sınırlar: Yalnızca ürün ve garanti bilgileri takip edilir. Gerçek fatura doğrulaması yapılmaz
+Beklenen çıktı: Ürünleri listeleyen ve garanti bitiş tarihlerini gösteren bir web sitesi.
+2-Yemek İsrafını Önleme Sistemi: Problem: Evdeki yiyeceklerin tüketim tarihleri unutulduğu için gıdalar çöpe atılabiliyor.
+Amaç: Yiyeceklerin tüketim tarihlerini takip ederek israfı azaltmak.
+Bağlam: Kullanıcı adıyla giriş yapar; yiyecek adı ve tarihini ekler.
+Sınırlar: Tarihler kullanıcı tarafından girilir; sistem gıdanın bozulup bozulmadığını belirlemez.
+Beklenen çıktı: Yiyecekleri listeleyen ve tarihi yaklaşan ürünleri gösteren bir web sitesi.
+3-Ev İşleri Görev Paylaşım Sistemi:Problem: Aynı evde yaşayan kişiler arasında temizlik ve diğer ev işlerinin kime ait olduğu karışabiliyor.
+Amaç: Ev işlerini düzenli şekilde planlamak ve görevlerin tamamlanmasını takip etmek.
+Bağlam: Kullanıcı adıyla giriş yapar; görev ekler, görev için kişi ve tarih belirler.
+Sınırlar: Sistem yalnızca görevleri listeler ve takip eder.
+Beklenen çıktı: Görev ekleme, silme ve tamamlandı işaretleme özellikleri olan bir web sitesi.
+4- Kişisel Araç Garajım:Problem: Araba meraklıları beğendikleri veya sahip oldukları araçları, modellerini ve özelliklerini tek bir yerde düzenli tutmakta zorlanabilir.
+Amaç: Kullanıcıların kişisel araç listesi oluşturmasını sağlamak.
+Bağlam: Kullanıcı bir kullanıcı adı belirler; BMW, Mercedes, Audi, Toyota, Renault gibi markalardan araç ekler. Model, yıl, yakıt türü ve not bilgilerini girer.
+Sınırlar: Araç bilgileri önceden belirlenmiş seçeneklerden veya kullanıcı girişinden oluşur. Gerçek araç ilanları ve çevrim içi veri kullanılmaz.
+Beklenen çıktı: Araç ekleme, listeleme, düzenleme ve silme özelliklerine sahip kişisel garaj web sitesi.
+Ve bu cevabı nasıl kullandım:Bu projeyi seçerken günlük hayatta otomobillere ilgi duyan kişilerin beğendikleri veya sahip oldukları araçları tek bir yerde düzenli şekilde takip edebilmelerini düşündüm. HTML, CSS ve JavaScript kullanarak kullanıcıların araç ekleyebildiği, düzenleyebildiği, silebildiği ve favorilerine kaydedebildiği bir web sitesi hazırlamayı planladım.
+Verileri saklamak için LocalStorage kullanacağım. Böylece öğrendiğim yazılım dillerini uygulayarak kullanışlı ve kolay erişilebilir bir proje geliştirebileceğim.
